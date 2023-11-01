@@ -1,15 +1,15 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApiRestauranteT.Models
 {
     public class Orden
     {
         [Key]
-        public int id { get; set; }
-        public int numOrden { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int idOrden { get; set; }
         public int idMesa { get; set; }
-        public Plato plato { get; set; }
-        public double precio { get; set; }
+        public bool estado { get; set; }
 
 
     }
