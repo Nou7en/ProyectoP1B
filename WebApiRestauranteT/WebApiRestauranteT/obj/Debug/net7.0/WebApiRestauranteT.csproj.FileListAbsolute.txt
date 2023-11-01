@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\appsettings.Development.json
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\appsettings.json
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.exe
@@ -78,3 +79,38 @@ D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\Web
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.pdb
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.genruntimeconfig.cache
 D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\ref\WebApiRestauranteT.dll
+=======
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\appsettings.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.exe
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.deps.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.runtimeconfig.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\WebApiRestauranteT.pdb
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.csproj.AssemblyReference.cache
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.AssemblyInfoInputs.cache
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.AssemblyInfo.cs
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets\msbuild.WebApiRestauranteT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApiRestauranteT.props
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApiRestauranteT.props
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApiRestauranteT.props
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\scopedcss\bundle\WebApiRestauranteT.styles.css
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.csproj.CopyComplete
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\refint\WebApiRestauranteT.dll
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.pdb
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\WebApiRestauranteT.genruntimeconfig.cache
+C:\Users\Carlos Esteban Larco\Desktop\Proecto Progreso 1\ProyectoP1B\WebApiRestauranteT\WebApiRestauranteT\obj\Debug\net7.0\ref\WebApiRestauranteT.dll
+>>>>>>> d04aaba3fa1a04fc46911e9cdf0c9dea0bf268e6

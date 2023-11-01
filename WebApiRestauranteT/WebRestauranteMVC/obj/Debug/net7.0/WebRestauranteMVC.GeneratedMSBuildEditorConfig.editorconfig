@@ -16,12 +16,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\UDLA Trabajos\Semestre 5\Programacio IV\ProyectoP1Otro\WebApiRestauranteT\WebRestauranteMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Factura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Menu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Mesa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Orden/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/UDLA Trabajos/Semestre 5/Programacio IV/ProyectoP1Otro/WebApiRestauranteT/WebRestauranteMVC/Views/Shared/Error.cshtml]
