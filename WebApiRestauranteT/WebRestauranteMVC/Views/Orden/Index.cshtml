@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 5cm auto 0; /* Mueve el contenedor 5 cm hacia abajo desde el borde superior */
+            text-align: center;
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 70px;
+        }
+
+        label {
+            color: #007BFF; /* Cambio de color a #003080 */
+            font-size: 30px; /* Cambio de tamaño a 15px */
+            margin-top: 2cm; /* Cambio de espacio a 2 cm desde el elemento anterior */
+            display: block;
+        }
+
+        select {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-top: 2cm; /* Espacio de 2 cm desde el elemento anterior */
+        }
+
+        p {
+            color: #fff;
+            font-size: 20px;
+            margin-top: 2cm; /* Espacio de 2 cm desde el elemento anterior */
+        }
+
+        #empezarOrdenButton {
+            background-color: #000;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 2cm; /* Espacio de 2 cm desde el elemento anterior */
+        }
+
+            #empezarOrdenButton:hover {
+                background-color: #333;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Genera tu orden aquí</h1>
+        <label for="mesa">Selecciona en qué mesa te encuentras</label>
+        <select id="mesa" name="mesa">
+            <option value="1">Mesa 1</option>
+            <option value="2">Mesa 2</option>
+            <option value="3">Mesa 3</option>
+            <option value="4">Mesa 4</option>
+            <option value="5">Mesa 5</option>
+            <option value="6">Mesa 6</option>
+        </select>
+        <a href="@Url.Action("Index", "Menu")">
+            <button id="empezarOrdenButton">Empieza a ordenar</button>
+        </a>
+    </div>
+</body>
+</html>
