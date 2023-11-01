@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj": {}
+    "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj": {
+    "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj",
+        "projectUniqueName": "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj",
         "projectName": "WebApiRestauranteT",
-        "projectPath": "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj",
-        "packagesPath": "C:\\Users\\Carlos Esteban Larco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebApiRestauranteT\\obj\\",
+        "projectPath": "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebApiRestauranteT\\WebApiRestauranteT.csproj",
+        "packagesPath": "C:\\Users\\TonyGku\\.nuget\\packages\\",
+        "outputPath": "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebApiRestauranteT\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Carlos Esteban Larco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TonyGku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

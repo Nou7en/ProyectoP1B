@@ -1,6 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "TDK77ZFycyTSzup6jwNSkf23MDuPZoFLp3c/u28cER+28UqYe0ubhWNJWM8AIanJp8J9mms/2ViGevE3B3THGA==",
   "success": true,
   "projectFilePath": "D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebRestauranteMVC\\WebRestauranteMVC.csproj",
@@ -72,11 +71,12 @@
     "C:\\Users\\TonyGku\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\TonyGku\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-=======
-  "dgSpecHash": "QsJK0X9Oqv2GaXQ3wnWqvvMTmjlKiouSQDlZmPPkNAyN5UD6k+4J1O3wDvysw2ra5tPlYdbjxdMkd/jWRv2Kmg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Esteban Larco\\Desktop\\Proecto Progreso 1\\ProyectoP1B\\WebApiRestauranteT\\WebRestauranteMVC\\WebRestauranteMVC.csproj",
-  "expectedPackageFiles": [],
->>>>>>> d04aaba3fa1a04fc46911e9cdf0c9dea0bf268e6
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché D:\\UDLA Trabajos\\Semestre 5\\Programacio IV\\ProyectoP1Otro\\WebApiRestauranteT\\WebRestauranteMVC\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
